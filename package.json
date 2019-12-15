@@ -1,0 +1,12 @@
+{
+  "name": "express-app",
+  "version": "0.1.0",
+  "description": "My express app",
+  "repository": "https://github.com/riskycase/my-express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
