@@ -1,0 +1,103 @@
+{
+  "products": [
+	{
+    "id" : "P001",
+    "categoryId" : "cty01",
+    "name" : "Pine Apple",
+    "unit" : "Kg",
+    "pricePerUnit" : 1.2,
+    "stocks" : 10
+    }, {
+    "id" : "P002",
+    "categoryId" : "cty01",
+    "name" : "Mango",
+    "unit" : "Kg",
+    "pricePerUnit" : 2.6,
+    "stocks" : 13
+    }, {
+    "id" : "P003",
+    "categoryId" : "cty01",
+    "name" : "Orange",
+    "unit" : "Kg",
+    "pricePerUnit" : 1.0,
+    "stocks" : 24
+    }, {
+    "id" : "P004",
+    "categoryId" : "cty01",
+    "name" : "Apple",
+    "unit" : "Kg",
+    "pricePerUnit" : 1.5,
+    "stocks" : 16
+    }, {
+    "id" : "P005",
+    "categoryId" : "cty02",
+    "name" : "Tomato",
+    "unit" : "Kg",
+    "pricePerUnit" : 0.5,
+    "stocks" : 30
+    }, {
+    "id" : "P006",
+    "categoryId" : "cty02",
+    "name" : "Onions",
+    "unit" : "Kg",
+    "pricePerUnit" : 0.7,
+    "stocks" : 20
+    }, {
+    "id" : "P007",
+    "categoryId" : "cty02",
+    "name" : "Beans",
+    "unit" : "Kg",
+    "pricePerUnit" : 1.4,
+    "stocks" : 6
+    }, {
+    "id" : "P008",
+    "categoryId" : "cty03",
+    "name" : "Milk",
+    "unit" : "L",
+    "pricePerUnit" : 1.0,
+    "stocks" : 30
+    }, {
+    "id" : "P009",
+    "categoryId" : "cty03",
+    "name" : "Cream",
+    "unit" : "L",
+    "pricePerUnit" : 12.0,
+    "stocks" : 3
+    }, {
+    "id" : "P010",
+    "categoryId" : "cty03",
+    "name" : "Cheese",
+    "unit" : "Kg",
+    "pricePerUnit" : 18,
+    "stocks" : 6
+    }, {
+    "id" : "P011",
+    "categoryId" : "cty04",
+    "name" : "Bread",
+    "unit" : "pkt",
+    "pricePerUnit" : 0.6,
+    "stocks" : 14
+    }, {
+    "id" : "P012",
+    "categoryId" : "cty04",
+    "name" : "Cookies",
+    "unit" : "pkt",
+    "pricePerUnit" : 1.4,
+    "stocks" : 40
+    }, {
+    "id" : "P013",
+    "categoryId" : "cty05",
+    "name" : "Fish",
+    "unit" : "Kg",
+    "pricePerUnit" : 16.0,
+    "stocks" : 4
+    }, {
+    "id" : "P014",
+    "categoryId" : "cty05",
+    "name" : "Meat",
+    "unit" : "Kg",
+    "pricePerUnit" : 12.0,
+    "stocks" : 6
+    }
+    ]
+}
