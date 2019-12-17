@@ -1,0 +1,19 @@
+{
+  "categories": [{
+    "id" : "cty01",
+    "categoryName" : "Fruits"
+    }, {
+    "id" : "cty02",
+    "categoryName" : "Vegetables"
+    }, {
+    "id" : "cty03",
+    "categoryName" : "Dairy"
+    }, {
+    "id" : "cty04",
+    "categoryName" : "Bakery"
+    }, {
+    "id" : "cty05",
+    "categoryName" : "Frozen Food"
+    }
+    ]
+}
