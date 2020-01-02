@@ -5,8 +5,24 @@
   "repository": "https://github.com/riskycase/my-express",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "eslint": "eslint --ignore-path .gitignore .",
+    "prettify": "prettier --single-quote --trailing-comma none --print-width 80 --write --no-bracket-spacing **/*.js"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^6.8.0",
+    "eslint-config-standard": "^14.1.0",
+    "eslint-config-strongloop": "^2.1.0",
+    "eslint-plugin-import": "^2.19.1",
+    "eslint-plugin-node": "^11.0.0",
+    "eslint-plugin-promise": "^4.2.1",
+    "eslint-plugin-standard": "^4.0.1",
+    "prettier": "^1.19.1",
+    "prettify": "^0.1.7"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
